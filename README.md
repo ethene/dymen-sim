@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![NS-3](https://img.shields.io/badge/NS--3-3.46-blue.svg)](https://www.nsnam.org/)
 [![Paper Status](https://img.shields.io/badge/Paper-Under_Review-orange.svg)](https://github.com/ethene/dymen-sim)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXX-blue.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17428380-blue.svg)](https://doi.org/10.5281/zenodo.17428380)
 [![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25-brightgreen.svg)](https://github.com/ethene/dymen-sim)
 
 [![Platform](https://img.shields.io/badge/Platform-macOS_|_Linux-lightgrey.svg)](https://github.com/ethene/dymen-sim)
@@ -31,7 +31,7 @@ This repository contains the **complete reproducibility package** for:
 
 > 📄 **"Routing Protocol Overhead Invariance in Hybrid LEO+Mesh Networks"**
 > *Computer Research and Modeling* (CRM), 2026 (in review)
-> [Preprint](https://github.com/ethene/dymen-sim) | [Data](https://github.com/ethene/dymen-sim/tree/main/results) | [Zenodo DOI](https://doi.org/10.5281/zenodo.XXXXXX)
+> [Preprint](https://github.com/ethene/dymen-sim) | [Data](https://github.com/ethene/dymen-sim/tree/main/results) | [Zenodo DOI](https://doi.org/10.5281/zenodo.17428380)
 
 ---
 
