@@ -1,0 +1,16 @@
+metric,value
+ground_routing,AODV
+ground_category,reactive
+ground_nodes,20
+satellites,0
+sim_time,60
+seed,15
+flows,7
+tx_packets,36786
+rx_packets,36007
+pdr,97.8823
+avg_delay_ms,4.09595
+runtime_seconds,44
+data_bytes_tx,39290940
+control_bytes_tx,15848922
+nrl,0.403373

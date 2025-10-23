@@ -1,0 +1,12 @@
+metric,value
+isl_routing,OLSR
+isl_category,proactive
+satellites,24
+sim_time,60
+seed,11
+flows,2
+tx_packets,366210
+rx_packets,366210
+pdr,100
+avg_delay_ms,49.3506
+runtime_seconds,7

@@ -1,0 +1,16 @@
+metric,value
+ground_routing,OLSR
+ground_category,proactive
+ground_nodes,20
+satellites,0
+sim_time,60
+seed,5
+flows,7
+tx_packets,36620
+rx_packets,35791
+pdr,97.7362
+avg_delay_ms,2.23409
+runtime_seconds,40
+data_bytes_tx,35115120
+control_bytes_tx,11939484
+nrl,0.340010

@@ -1,0 +1,16 @@
+metric,value
+ground_routing,DSDV
+ground_category,proactive
+ground_nodes,20
+satellites,0
+sim_time,60
+seed,13
+flows,7
+tx_packets,36620
+rx_packets,35072
+pdr,95.7728
+avg_delay_ms,22.0011
+runtime_seconds,47
+data_bytes_tx,63831780
+control_bytes_tx,15632120
+nrl,0.244896
