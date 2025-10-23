@@ -4,24 +4,24 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![NS-3](https://img.shields.io/badge/NS--3-3.46-blue.svg)](https://www.nsnam.org/)
-[![Paper Status](https://img.shields.io/badge/Paper-Under_Review-orange.svg)](https://github.com/USERNAME/dymen-sim)
+[![Paper Status](https://img.shields.io/badge/Paper-Under_Review-orange.svg)](https://github.com/ethene/dymen-sim)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXX-blue.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
-[![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25-brightgreen.svg)](https://github.com/USERNAME/dymen-sim)
+[![Reproducibility](https://img.shields.io/badge/Reproducibility-100%25-brightgreen.svg)](https://github.com/ethene/dymen-sim)
 
-[![Platform](https://img.shields.io/badge/Platform-macOS_|_Linux-lightgrey.svg)](https://github.com/USERNAME/dymen-sim)
-[![Language](https://img.shields.io/badge/Language-C%2B%2B20_|_Python_3.8%2B-blue.svg)](https://github.com/USERNAME/dymen-sim)
-[![Code Size](https://img.shields.io/badge/Code-1.2_MB-informational.svg)](https://github.com/USERNAME/dymen-sim)
-[![Simulations](https://img.shields.io/badge/Simulations-105-success.svg)](https://github.com/USERNAME/dymen-sim)
-[![Statistical Power](https://img.shields.io/badge/Statistical_Power-n%3D45-brightgreen.svg)](https://github.com/USERNAME/dymen-sim)
+[![Platform](https://img.shields.io/badge/Platform-macOS_|_Linux-lightgrey.svg)](https://github.com/ethene/dymen-sim)
+[![Language](https://img.shields.io/badge/Language-C%2B%2B20_|_Python_3.8%2B-blue.svg)](https://github.com/ethene/dymen-sim)
+[![Code Size](https://img.shields.io/badge/Code-1.2_MB-informational.svg)](https://github.com/ethene/dymen-sim)
+[![Simulations](https://img.shields.io/badge/Simulations-105-success.svg)](https://github.com/ethene/dymen-sim)
+[![Statistical Power](https://img.shields.io/badge/Statistical_Power-n%3D45-brightgreen.svg)](https://github.com/ethene/dymen-sim)
 
-[![ANOVA p-value](https://img.shields.io/badge/ANOVA-p%3D0.837-success.svg)](https://github.com/USERNAME/dymen-sim)
-[![Effect Size](https://img.shields.io/badge/Effect_Size-%CE%B7%C2%B2%3D0.006-lightgrey.svg)](https://github.com/USERNAME/dymen-sim)
-[![Variance Reduction](https://img.shields.io/badge/Variance_Reduction-7%C3%97-blue.svg)](https://github.com/USERNAME/dymen-sim)
-[![Cohen's d](https://img.shields.io/badge/Cohen's_d-1.89-orange.svg)](https://github.com/USERNAME/dymen-sim)
+[![ANOVA p-value](https://img.shields.io/badge/ANOVA-p%3D0.837-success.svg)](https://github.com/ethene/dymen-sim)
+[![Effect Size](https://img.shields.io/badge/Effect_Size-%CE%B7%C2%B2%3D0.006-lightgrey.svg)](https://github.com/ethene/dymen-sim)
+[![Variance Reduction](https://img.shields.io/badge/Variance_Reduction-7%C3%97-blue.svg)](https://github.com/ethene/dymen-sim)
+[![Cohen's d](https://img.shields.io/badge/Cohen's_d-1.89-orange.svg)](https://github.com/ethene/dymen-sim)
 
-[![Build](https://img.shields.io/badge/Build-Passing-success.svg)](https://github.com/USERNAME/dymen-sim)
-[![Documentation](https://img.shields.io/badge/Docs-Complete-brightgreen.svg)](https://github.com/USERNAME/dymen-sim)
-[![Runtime](https://img.shields.io/badge/Runtime-~2_hours-informational.svg)](https://github.com/USERNAME/dymen-sim)
+[![Build](https://img.shields.io/badge/Build-Passing-success.svg)](https://github.com/ethene/dymen-sim)
+[![Documentation](https://img.shields.io/badge/Docs-Complete-brightgreen.svg)](https://github.com/ethene/dymen-sim)
+[![Runtime](https://img.shields.io/badge/Runtime-~2_hours-informational.svg)](https://github.com/ethene/dymen-sim)
 
 </div>
 
@@ -31,7 +31,7 @@ This repository contains the **complete reproducibility package** for:
 
 > 📄 **"Routing Protocol Overhead Invariance in Hybrid LEO+Mesh Networks"**
 > *Computer Research and Modeling* (CRM), 2026 (in review)
-> [Preprint](https://github.com/USERNAME/dymen-sim) | [Data](https://github.com/USERNAME/dymen-sim/tree/main/results) | [Zenodo DOI](https://doi.org/10.5281/zenodo.XXXXXX)
+> [Preprint](https://github.com/ethene/dymen-sim) | [Data](https://github.com/ethene/dymen-sim/tree/main/results) | [Zenodo DOI](https://doi.org/10.5281/zenodo.XXXXXX)
 
 ---
 
@@ -249,7 +249,7 @@ Hybrid LEO+mesh architectures **stabilize performance** by:
 
 ```bash
 # Clone repository
-git clone https://github.com/USERNAME/dymen-sim.git
+git clone https://github.com/ethene/dymen-sim.git
 cd dymen-sim
 
 # Install dependencies
@@ -637,8 +637,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **For questions, bug reports, or collaboration:**
 
-- 🐛 **Bug Reports:** [Open a GitHub Issue](https://github.com/USERNAME/dymen-sim/issues)
-- 💬 **Questions:** [GitHub Discussions](https://github.com/USERNAME/dymen-sim/discussions)
+- 🐛 **Bug Reports:** [Open a GitHub Issue](https://github.com/ethene/dymen-sim/issues)
+- 💬 **Questions:** [GitHub Discussions](https://github.com/ethene/dymen-sim/discussions)
 - 📧 **Email:** [Author Email]
 - 🔬 **ORCID:** [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
 
@@ -670,6 +670,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **⭐ If this repository helped your research, please consider starring it! ⭐**
 
-Made with ☕ and NS-3 | [Report an Issue](https://github.com/USERNAME/dymen-sim/issues) | [Request a Feature](https://github.com/USERNAME/dymen-sim/issues/new?labels=enhancement)
+Made with ☕ and NS-3 | [Report an Issue](https://github.com/ethene/dymen-sim/issues) | [Request a Feature](https://github.com/ethene/dymen-sim/issues/new?labels=enhancement)
 
 </div>
